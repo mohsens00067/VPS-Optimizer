@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-udpport=7300
+udpport=7305
 echo -e "\ninput UDPGW Port :"
 printf "Default Port is \e[33m${udpport}\e[0m, let it blank to use this Port: "
 read udpport
